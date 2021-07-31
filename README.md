@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StreakingMan, name Max also.
 - 👀 I’m interested in front end, game design and development, algorithm...
-- 🌱 I’m currently learning vue3 and typeScript.
+- 🌱 I’m currently learning react, vue3 and typeScript.
 - 💞️ I’m looking to collaborate on vue3-resume-editor and fed-playground.
 - 📫 You can reach me by issue.
 
