@@ -7,16 +7,11 @@ on:
 
 jobs:
   update-readme:
-    name: GitHub README Generator
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
     steps:
-      - uses: th3c0d3br34ker/github-readme-info@1.0.2
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Beijing"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_DAILY_COMMIT: "True"
-          SHOW_WEEKLY_COMMIT: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_TOTAL_CONTRIBUTIONS: "True"
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
