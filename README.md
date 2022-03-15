@@ -9,8 +9,7 @@ StreakingMan/StreakingMan is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+[![StreakingMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=StreakingMan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :zap: Recent Activity
 
