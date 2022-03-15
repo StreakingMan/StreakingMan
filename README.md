@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#81](https://github.com/jeffreytse/jekyll-theme-yat/pull/81) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
 2. 🗣 Commented on [#6](https://github.com/StreakingMan/streakingman.github.io/issues/6) in [StreakingMan/streakingman.github.io](https://github.com/StreakingMan/streakingman.github.io)
