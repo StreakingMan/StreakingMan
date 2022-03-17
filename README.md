@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/jeffreytse/jekyll-theme-yat/pull/81) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
-2. 🗣 Commented on [#6](https://github.com/StreakingMan/streakingman.github.io/issues/6) in [StreakingMan/streakingman.github.io](https://github.com/StreakingMan/streakingman.github.io)
-3. 🎉 Merged PR [#1](https://github.com/StreakingMan/streakingman-cli/pull/1) in [StreakingMan/streakingman-cli](https://github.com/StreakingMan/streakingman-cli)
-4. 💪 Opened PR [#1](https://github.com/StreakingMan/streakingman-cli/pull/1) in [StreakingMan/streakingman-cli](https://github.com/StreakingMan/streakingman-cli)
-5. 💪 Opened PR [#1](https://github.com/StreakingMan/vue3-resume-editor/pull/1) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+1. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
+2. 🗣 Commented on [#81](https://github.com/jeffreytse/jekyll-theme-yat/issues/81) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
+3. ❌ Closed PR [#81](https://github.com/jeffreytse/jekyll-theme-yat/pull/81) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
+4. 💪 Opened PR [#81](https://github.com/jeffreytse/jekyll-theme-yat/pull/81) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
+5. 🗣 Commented on [#6](https://github.com/StreakingMan/streakingman.github.io/issues/6) in [StreakingMan/streakingman.github.io](https://github.com/StreakingMan/streakingman.github.io)
 <!--END_SECTION:activity-->
