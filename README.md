@@ -18,9 +18,9 @@ You can click the Preview link to take a look at your changes.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/jeffreytse/jekyll-theme-yat/pull/83) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
-2. 🗣 Commented on [#1](https://github.com/StreakingMan/streakingman.com/issues/1) in [StreakingMan/streakingman.com](https://github.com/StreakingMan/streakingman.com)
-3. ❗️ Closed issue [#1](https://github.com/StreakingMan/streakingman.com/issues/1) in [StreakingMan/streakingman.com](https://github.com/StreakingMan/streakingman.com)
-4. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
-5. 🗣 Commented on [#81](https://github.com/jeffreytse/jekyll-theme-yat/issues/81) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
+1. 💪 Opened PR [#84](https://github.com/jeffreytse/jekyll-theme-yat/pull/84) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
+2. 💪 Opened PR [#83](https://github.com/jeffreytse/jekyll-theme-yat/pull/83) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
+3. 🗣 Commented on [#1](https://github.com/StreakingMan/streakingman.com/issues/1) in [StreakingMan/streakingman.com](https://github.com/StreakingMan/streakingman.com)
+4. ❗️ Closed issue [#1](https://github.com/StreakingMan/streakingman.com/issues/1) in [StreakingMan/streakingman.com](https://github.com/StreakingMan/streakingman.com)
+5. 🗣 Commented on [#1](https://github.com/utterance/utterances/issues/1) in [utterance/utterances](https://github.com/utterance/utterances)
 <!--END_SECTION:activity-->
