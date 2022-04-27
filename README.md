@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/tlzzu/SoDiaoEditor-Vue/issues/1) in [tlzzu/SoDiaoEditor-Vue](https://github.com/tlzzu/SoDiaoEditor-Vue)
-2. 🗣 Commented on [#18](https://github.com/screepers/screeps-arena-typescript-starter/issues/18) in [screepers/screeps-arena-typescript-starter](https://github.com/screepers/screeps-arena-typescript-starter)
-3. ❗️ Opened issue [#18](https://github.com/screepers/screeps-arena-typescript-starter/issues/18) in [screepers/screeps-arena-typescript-starter](https://github.com/screepers/screeps-arena-typescript-starter)
-4. 💪 Opened PR [#84](https://github.com/jeffreytse/jekyll-theme-yat/pull/84) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
-5. 💪 Opened PR [#83](https://github.com/jeffreytse/jekyll-theme-yat/pull/83) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
+1. 🎉 Merged PR [#1](https://github.com/StreakingMan/vue3-resume-editor/pull/1) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+2. 🗣 Commented on [#1](https://github.com/tlzzu/SoDiaoEditor-Vue/issues/1) in [tlzzu/SoDiaoEditor-Vue](https://github.com/tlzzu/SoDiaoEditor-Vue)
+3. 🗣 Commented on [#18](https://github.com/screepers/screeps-arena-typescript-starter/issues/18) in [screepers/screeps-arena-typescript-starter](https://github.com/screepers/screeps-arena-typescript-starter)
+4. ❗️ Opened issue [#18](https://github.com/screepers/screeps-arena-typescript-starter/issues/18) in [screepers/screeps-arena-typescript-starter](https://github.com/screepers/screeps-arena-typescript-starter)
+5. 💪 Opened PR [#84](https://github.com/jeffreytse/jekyll-theme-yat/pull/84) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
 <!--END_SECTION:activity-->
 
 
