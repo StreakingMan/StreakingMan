@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/StreakingMan/vue3-resume-editor/pull/1) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-2. 🗣 Commented on [#1](https://github.com/tlzzu/SoDiaoEditor-Vue/issues/1) in [tlzzu/SoDiaoEditor-Vue](https://github.com/tlzzu/SoDiaoEditor-Vue)
-3. 🗣 Commented on [#18](https://github.com/screepers/screeps-arena-typescript-starter/issues/18) in [screepers/screeps-arena-typescript-starter](https://github.com/screepers/screeps-arena-typescript-starter)
-4. ❗️ Opened issue [#18](https://github.com/screepers/screeps-arena-typescript-starter/issues/18) in [screepers/screeps-arena-typescript-starter](https://github.com/screepers/screeps-arena-typescript-starter)
-5. 💪 Opened PR [#84](https://github.com/jeffreytse/jekyll-theme-yat/pull/84) in [jeffreytse/jekyll-theme-yat](https://github.com/jeffreytse/jekyll-theme-yat)
+1. ❗️ Opened issue [#5](https://github.com/StreakingMan/vue3-resume-editor/issues/5) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+2. 🎉 Merged PR [#4](https://github.com/StreakingMan/vue3-resume-editor/pull/4) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+3. ❗️ Opened issue [#3](https://github.com/StreakingMan/vue3-resume-editor/issues/3) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+4. 🎉 Merged PR [#2](https://github.com/StreakingMan/vue3-resume-editor/pull/2) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+5. 🎉 Merged PR [#1](https://github.com/StreakingMan/vue3-resume-editor/pull/1) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
 <!--END_SECTION:activity-->
 
 
