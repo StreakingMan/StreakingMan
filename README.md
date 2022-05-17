@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/StreakingMan/vue3-resume-editor/pull/7) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-2. 💪 Opened PR [#7](https://github.com/StreakingMan/vue3-resume-editor/pull/7) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-3. ❗️ Closed issue [#3](https://github.com/StreakingMan/vue3-resume-editor/issues/3) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-4. 🎉 Merged PR [#6](https://github.com/StreakingMan/vue3-resume-editor/pull/6) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-5. ❗️ Opened issue [#5](https://github.com/StreakingMan/vue3-resume-editor/issues/5) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+1. 🗣 Commented on [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 🎉 Merged PR [#7](https://github.com/StreakingMan/vue3-resume-editor/pull/7) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+3. 💪 Opened PR [#7](https://github.com/StreakingMan/vue3-resume-editor/pull/7) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+4. ❗️ Closed issue [#3](https://github.com/StreakingMan/vue3-resume-editor/issues/3) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+5. 🎉 Merged PR [#6](https://github.com/StreakingMan/vue3-resume-editor/pull/6) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
 <!--END_SECTION:activity-->
 
 
