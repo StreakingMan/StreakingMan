@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/StreakingMan/solvable-sheep-game/pull/8) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
-2. 🗣 Commented on [#8](https://github.com/StreakingMan/solvable-sheep-game/issues/8) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
-3. 🗣 Commented on [#9](https://github.com/StreakingMan/solvable-sheep-game/issues/9) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
-4. 🗣 Commented on [#6](https://github.com/StreakingMan/solvable-sheep-game/issues/6) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
-5. 🗣 Commented on [#7](https://github.com/StreakingMan/solvable-sheep-game/issues/7) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+1. 🎉 Merged PR [#10](https://github.com/StreakingMan/solvable-sheep-game/pull/10) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+2. 💪 Opened PR [#10](https://github.com/StreakingMan/solvable-sheep-game/pull/10) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+3. 🎉 Merged PR [#8](https://github.com/StreakingMan/solvable-sheep-game/pull/8) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+4. 🗣 Commented on [#8](https://github.com/StreakingMan/solvable-sheep-game/issues/8) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+5. 🗣 Commented on [#9](https://github.com/StreakingMan/solvable-sheep-game/issues/9) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
 <!--END_SECTION:activity-->
 
 
