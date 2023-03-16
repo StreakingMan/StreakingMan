@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/521xueweihan/GitHub520/issues/181) in [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)
-2. 🗣 Commented on [#1800](https://github.com/vuejs/vitepress/issues/1800) in [vuejs/vitepress](https://github.com/vuejs/vitepress)
-3. 🎉 Merged PR [#7](https://github.com/StreakingMan/markdown-git-blog-editor/pull/7) in [StreakingMan/markdown-git-blog-editor](https://github.com/StreakingMan/markdown-git-blog-editor)
-4. 🎉 Merged PR [#6](https://github.com/StreakingMan/markdown-git-blog-editor/pull/6) in [StreakingMan/markdown-git-blog-editor](https://github.com/StreakingMan/markdown-git-blog-editor)
-5. 🎉 Merged PR [#2](https://github.com/StreakingMan/markdown-git-blog-editor/pull/2) in [StreakingMan/markdown-git-blog-editor](https://github.com/StreakingMan/markdown-git-blog-editor)
+1. ❗️ Closed issue [#49](https://github.com/cloudcome/oas-gen-ts/issues/49) in [cloudcome/oas-gen-ts](https://github.com/cloudcome/oas-gen-ts)
+2. ❗️ Opened issue [#49](https://github.com/cloudcome/oas-gen-ts/issues/49) in [cloudcome/oas-gen-ts](https://github.com/cloudcome/oas-gen-ts)
+3. ❗️ Opened issue [#48](https://github.com/cloudcome/oas-gen-ts/issues/48) in [cloudcome/oas-gen-ts](https://github.com/cloudcome/oas-gen-ts)
+4. 💪 Opened PR [#47](https://github.com/cloudcome/oas-gen-ts/pull/47) in [cloudcome/oas-gen-ts](https://github.com/cloudcome/oas-gen-ts)
+5. 💪 Opened PR [#46](https://github.com/cloudcome/oas-gen-ts/pull/46) in [cloudcome/oas-gen-ts](https://github.com/cloudcome/oas-gen-ts)
 <!--END_SECTION:activity-->
 
 
