@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/StreakingMan/solvable-sheep-game/issues/17) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
-2. ❗️ Closed issue [#19](https://github.com/StreakingMan/solvable-sheep-game/issues/19) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+1. 🔒 Closed issue [#17](https://github.com/StreakingMan/solvable-sheep-game/issues/17) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+2. 🔒 Closed issue [#19](https://github.com/StreakingMan/solvable-sheep-game/issues/19) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
 3. 🗣 Commented on [#19](https://github.com/StreakingMan/solvable-sheep-game/issues/19) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
-4. ❗️ Closed issue [#21](https://github.com/StreakingMan/solvable-sheep-game/issues/21) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
-5. ❗️ Closed issue [#22](https://github.com/StreakingMan/solvable-sheep-game/issues/22) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+4. 🔒 Closed issue [#21](https://github.com/StreakingMan/solvable-sheep-game/issues/21) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
+5. 🔒 Closed issue [#22](https://github.com/StreakingMan/solvable-sheep-game/issues/22) in [StreakingMan/solvable-sheep-game](https://github.com/StreakingMan/solvable-sheep-game)
 <!--END_SECTION:activity-->
 
 
