@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821990036) in [pixijs/spine](https://github.com/pixijs/spine)
-2. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821275168) in [pixijs/spine](https://github.com/pixijs/spine)
-3. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821172800) in [pixijs/spine](https://github.com/pixijs/spine)
-4. 🗣 Commented on [#374](https://github.com/pixijs/pixi-react/issues/374#issuecomment-1818520601) in [pixijs/pixi-react](https://github.com/pixijs/pixi-react)
-5. 🗣 Commented on [#18121](https://github.com/vuetifyjs/vuetify/issues/18121#issuecomment-1762058241) in [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify)
+1. ❗ Opened issue [#2425](https://github.com/EsotericSoftware/spine-runtimes/issues/2425) in [EsotericSoftware/spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes)
+2. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821990036) in [pixijs/spine](https://github.com/pixijs/spine)
+3. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821275168) in [pixijs/spine](https://github.com/pixijs/spine)
+4. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821172800) in [pixijs/spine](https://github.com/pixijs/spine)
+5. 🗣 Commented on [#374](https://github.com/pixijs/pixi-react/issues/374#issuecomment-1818520601) in [pixijs/pixi-react](https://github.com/pixijs/pixi-react)
 <!--END_SECTION:activity-->
 
 
