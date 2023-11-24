@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2425](https://github.com/EsotericSoftware/spine-runtimes/issues/2425) in [EsotericSoftware/spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes)
-2. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821990036) in [pixijs/spine](https://github.com/pixijs/spine)
-3. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821275168) in [pixijs/spine](https://github.com/pixijs/spine)
-4. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821172800) in [pixijs/spine](https://github.com/pixijs/spine)
-5. 🗣 Commented on [#374](https://github.com/pixijs/pixi-react/issues/374#issuecomment-1818520601) in [pixijs/pixi-react](https://github.com/pixijs/pixi-react)
+1. ❗ Opened issue [#12](https://github.com/StreakingMan/vue3-resume-editor/issues/12) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+2. ❗ Opened issue [#11](https://github.com/StreakingMan/vue3-resume-editor/issues/11) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+3. ❗ Opened issue [#10](https://github.com/StreakingMan/vue3-resume-editor/issues/10) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+4. ❗ Opened issue [#2425](https://github.com/EsotericSoftware/spine-runtimes/issues/2425) in [EsotericSoftware/spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes)
+5. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821990036) in [pixijs/spine](https://github.com/pixijs/spine)
 <!--END_SECTION:activity-->
 
 
