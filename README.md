@@ -7,11 +7,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/StreakingMan/vue3-resume-editor/issues/12) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-2. ❗ Opened issue [#11](https://github.com/StreakingMan/vue3-resume-editor/issues/11) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-3. ❗ Opened issue [#10](https://github.com/StreakingMan/vue3-resume-editor/issues/10) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-4. ❗ Opened issue [#2425](https://github.com/EsotericSoftware/spine-runtimes/issues/2425) in [EsotericSoftware/spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes)
-5. 🗣 Commented on [#415](https://github.com/pixijs/spine/issues/415#issuecomment-1821990036) in [pixijs/spine](https://github.com/pixijs/spine)
+1. 🔒 Closed issue [#5](https://github.com/StreakingMan/vue3-resume-editor/issues/5) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+2. 🗣 Commented on [#13](https://github.com/StreakingMan/vue3-resume-editor/pull/13#issuecomment-1888578707) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+3. 🎉 Merged PR [#13](https://github.com/StreakingMan/vue3-resume-editor/pull/13) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+4. 💪 Opened PR [#13](https://github.com/StreakingMan/vue3-resume-editor/pull/13) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+5. ❗ Opened issue [#12](https://github.com/StreakingMan/vue3-resume-editor/issues/12) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
 <!--END_SECTION:activity-->
 
 
