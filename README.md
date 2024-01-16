@@ -1,8 +1,9 @@
 [![StreakingMan's GitHub stats](https://streakingman-github-readme-stats.vercel.app/api?username=StreakingMan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://streakingman-github-readme-stats.vercel.app/api/top-langs/?username=StreakingMan&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![StreakingMan's wakatime stats](https://streakingman-github-readme-stats.vercel.app/api/wakatime?username=StreakingMan&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://streakingman-github-readme-stats.vercel.app/api/top-langs/?username=StreakingMan&layout=compact&langs_count=8" />
+  <img src="https://streakingman-github-readme-stats.vercel.app/api/wakatime?username=StreakingMan&layout=compact&langs_count=8" />
+</p>
 
 ### :zap: Recent Activity
 
