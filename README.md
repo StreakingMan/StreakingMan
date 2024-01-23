@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#14](https://github.com/StreakingMan/vue3-resume-editor/issues/14) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-2. ❗ Opened issue [#14](https://github.com/StreakingMan/vue3-resume-editor/issues/14) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-3. ❗ Opened issue [#42](https://github.com/arashsheyda/nuxt-mongoose/issues/42) in [arashsheyda/nuxt-mongoose](https://github.com/arashsheyda/nuxt-mongoose)
-4. 🗣 Commented on [#10979](https://github.com/element-plus/element-plus/issues/10979#issuecomment-1899640905) in [element-plus/element-plus](https://github.com/element-plus/element-plus)
-5. 🔒 Closed issue [#5](https://github.com/StreakingMan/vue3-resume-editor/issues/5) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+1. 🎉 Merged PR [#16](https://github.com/StreakingMan/vue3-resume-editor/pull/16) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+2. 🎉 Merged PR [#15](https://github.com/StreakingMan/vue3-resume-editor/pull/15) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+3. 🎉 Merged PR [#17](https://github.com/StreakingMan/vue3-resume-editor/pull/17) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+4. 🎉 Merged PR [#19](https://github.com/StreakingMan/vue3-resume-editor/pull/19) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+5. 🎉 Merged PR [#18](https://github.com/StreakingMan/vue3-resume-editor/pull/18) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
 <!--END_SECTION:activity-->
 
 
