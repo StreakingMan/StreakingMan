@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3745](https://github.com/vueuse/vueuse/issues/3745#issuecomment-1925590678) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
-2. 🗣 Commented on [#3745](https://github.com/vueuse/vueuse/issues/3745#issuecomment-1925589662) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
-3. 🔒 Closed issue [#3745](https://github.com/vueuse/vueuse/issues/3745) in [vueuse/vueuse](https://github.com/vueuse/vueuse)
-4. 🔒 Closed issue [#10](https://github.com/StreakingMan/vue3-resume-editor/issues/10) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-5. 🎉 Merged PR [#12](https://github.com/StreakingMan/vitepress-blogmate/pull/12) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
+1. 🎉 Merged PR [#35](https://github.com/StreakingMan/vue3-resume-editor/pull/35) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+2. 🎉 Merged PR [#34](https://github.com/StreakingMan/vue3-resume-editor/pull/34) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+3. ❌ Closed PR [#33](https://github.com/StreakingMan/vue3-resume-editor/pull/33) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+4. 🎉 Merged PR [#29](https://github.com/StreakingMan/vue3-resume-editor/pull/29) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+5. 🎉 Merged PR [#32](https://github.com/StreakingMan/vue3-resume-editor/pull/32) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
 <!--END_SECTION:activity-->
 
 
