@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/StreakingMan/vue3-resume-editor/pull/39) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-2. 🎉 Merged PR [#43](https://github.com/StreakingMan/vue3-resume-editor/pull/43) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-3. 🎉 Merged PR [#41](https://github.com/StreakingMan/vue3-resume-editor/pull/41) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-4. 🎉 Merged PR [#42](https://github.com/StreakingMan/vue3-resume-editor/pull/42) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
-5. 🎉 Merged PR [#37](https://github.com/StreakingMan/vue3-resume-editor/pull/37) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+1. 🎉 Merged PR [#47](https://github.com/StreakingMan/vue3-resume-editor/pull/47) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+2. 🎉 Merged PR [#48](https://github.com/StreakingMan/vue3-resume-editor/pull/48) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+3. 🎉 Merged PR [#39](https://github.com/StreakingMan/vue3-resume-editor/pull/39) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+4. 🎉 Merged PR [#43](https://github.com/StreakingMan/vue3-resume-editor/pull/43) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+5. 🎉 Merged PR [#41](https://github.com/StreakingMan/vue3-resume-editor/pull/41) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
 <!--END_SECTION:activity-->
 
 
