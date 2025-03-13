@@ -8,7 +8,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32743](https://github.com/mui/material-ui/issues/32743#issuecomment-2560609038) in [mui/material-ui](https://github.com/mui/material-ui)
+1. 🗣 Commented on [#2](https://github.com/ahujasid/blender-mcp/issues/2#issuecomment-2716318419) in [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
 2. 🗣 Commented on [#330](https://github.com/dohomi/react-hook-form-mui/issues/330#issuecomment-2456539422) in [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui)
 3. 🔒 Closed issue [#330](https://github.com/dohomi/react-hook-form-mui/issues/330) in [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui)
 4. ❗ Opened issue [#330](https://github.com/dohomi/react-hook-form-mui/issues/330) in [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui)
