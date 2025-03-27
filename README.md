@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/SolarisNeko/neko233-ai-mcp-spine/issues/1) in [SolarisNeko/neko233-ai-mcp-spine](https://github.com/SolarisNeko/neko233-ai-mcp-spine)
-2. 🗣 Commented on [#2](https://github.com/ahujasid/blender-mcp/issues/2#issuecomment-2716318419) in [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
-3. 🔒 Closed issue [#330](https://github.com/dohomi/react-hook-form-mui/issues/330) in [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui)
+1. 🗣 Commented on [#718](https://github.com/Shopify/theme-tools/issues/718#issuecomment-2756499481) in [Shopify/theme-tools](https://github.com/Shopify/theme-tools)
+2. ❗ Opened issue [#1](https://github.com/SolarisNeko/neko233-ai-mcp-spine/issues/1) in [SolarisNeko/neko233-ai-mcp-spine](https://github.com/SolarisNeko/neko233-ai-mcp-spine)
+3. 🗣 Commented on [#2](https://github.com/ahujasid/blender-mcp/issues/2#issuecomment-2716318419) in [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
 4. ❗ Opened issue [#330](https://github.com/dohomi/react-hook-form-mui/issues/330) in [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui)
 5. 🎉 Merged PR [#80](https://github.com/StreakingMan/vue3-resume-editor/pull/80) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
 <!--END_SECTION:activity-->
