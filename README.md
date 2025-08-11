@@ -8,9 +8,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#718](https://github.com/Shopify/theme-tools/issues/718#issuecomment-2756499481) in [Shopify/theme-tools](https://github.com/Shopify/theme-tools)
-2. ❗ Opened issue [#1](https://github.com/SolarisNeko/neko233-ai-mcp-spine/issues/1) in [SolarisNeko/neko233-ai-mcp-spine](https://github.com/SolarisNeko/neko233-ai-mcp-spine)
-3. 🗣 Commented on [#2](https://github.com/ahujasid/blender-mcp/issues/2#issuecomment-2716318419) in [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp)
+1. 💪 Opened PR [#811](https://github.com/harttle/liquidjs/pull/811) in [harttle/liquidjs](https://github.com/harttle/liquidjs)
+2. ❌ Closed PR [#810](https://github.com/harttle/liquidjs/pull/810) in [harttle/liquidjs](https://github.com/harttle/liquidjs)
+3. 💪 Opened PR [#810](https://github.com/harttle/liquidjs/pull/810) in [harttle/liquidjs](https://github.com/harttle/liquidjs)
 4. ❗ Opened issue [#330](https://github.com/dohomi/react-hook-form-mui/issues/330) in [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui)
 5. 🎉 Merged PR [#80](https://github.com/StreakingMan/vue3-resume-editor/pull/80) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
 <!--END_SECTION:activity-->
