@@ -8,7 +8,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#811](https://github.com/harttle/liquidjs/pull/811) in [harttle/liquidjs](https://github.com/harttle/liquidjs)
+1. ❗ Opened issue [#110](https://github.com/Simon-He95/vue-markdown-renderer/issues/110) in [Simon-He95/vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
 2. ❌ Closed PR [#810](https://github.com/harttle/liquidjs/pull/810) in [harttle/liquidjs](https://github.com/harttle/liquidjs)
 3. 💪 Opened PR [#810](https://github.com/harttle/liquidjs/pull/810) in [harttle/liquidjs](https://github.com/harttle/liquidjs)
 4. ❗ Opened issue [#330](https://github.com/dohomi/react-hook-form-mui/issues/330) in [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui)
