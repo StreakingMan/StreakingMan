@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#110](https://github.com/Simon-He95/vue-markdown-renderer/issues/110) in [Simon-He95/vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
-2. ❌ Closed PR [#810](https://github.com/harttle/liquidjs/pull/810) in [harttle/liquidjs](https://github.com/harttle/liquidjs)
-3. 💪 Opened PR [#810](https://github.com/harttle/liquidjs/pull/810) in [harttle/liquidjs](https://github.com/harttle/liquidjs)
-4. ❗ Opened issue [#330](https://github.com/dohomi/react-hook-form-mui/issues/330) in [dohomi/react-hook-form-mui](https://github.com/dohomi/react-hook-form-mui)
-5. 🎉 Merged PR [#80](https://github.com/StreakingMan/vue3-resume-editor/pull/80) in [StreakingMan/vue3-resume-editor](https://github.com/StreakingMan/vue3-resume-editor)
+1. 🔓 Reopened issue [#110](https://github.com/Simon-He95/vue-markdown-renderer/issues/110) in [Simon-He95/vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
+2. 🗣 Commented on [#110](https://github.com/Simon-He95/vue-markdown-renderer/issues/110#issuecomment-3487546490) in [Simon-He95/vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
+3. 🔒 Closed issue [#110](https://github.com/Simon-He95/vue-markdown-renderer/issues/110) in [Simon-He95/vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
+4. 🗣 Commented on [#110](https://github.com/Simon-He95/vue-markdown-renderer/issues/110#issuecomment-3487508694) in [Simon-He95/vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
+5. 🗣 Commented on [#110](https://github.com/Simon-He95/vue-markdown-renderer/issues/110#issuecomment-3487474457) in [Simon-He95/vue-markdown-renderer](https://github.com/Simon-He95/vue-markdown-renderer)
 <!--END_SECTION:activity-->
 
 
