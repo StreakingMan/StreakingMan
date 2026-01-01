@@ -8,8 +8,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1](undefined) in [StreakingMan/homebooks](https://github.com/StreakingMan/homebooks)
-2. 💪 Opened PR [#1](undefined) in [StreakingMan/homebooks](https://github.com/StreakingMan/homebooks)
+1. 🎉 Merged PR [#1](https://github.com/StreakingMan/homebooks/pull/1) in [StreakingMan/homebooks](https://github.com/StreakingMan/homebooks)
+2. 💪 Opened PR [#1](https://github.com/StreakingMan/homebooks/pull/1) in [StreakingMan/homebooks](https://github.com/StreakingMan/homebooks)
 3. 🗣 Commented on [#44](https://github.com/arashsheyda/nuxt-mongoose/issues/44#issuecomment-3598567781) in [arashsheyda/nuxt-mongoose](https://github.com/arashsheyda/nuxt-mongoose)
 4. 🔒 Closed issue [#110](https://github.com/Simon-He95/markstream-vue/issues/110) in [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue)
 5. 🗣 Commented on [#110](https://github.com/Simon-He95/markstream-vue/issues/110#issuecomment-3487508694) in [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue)
