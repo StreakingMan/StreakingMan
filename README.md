@@ -8,11 +8,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/StreakingMan/homebooks/pull/1) in [StreakingMan/homebooks](https://github.com/StreakingMan/homebooks)
-2. 💪 Opened PR [#1](https://github.com/StreakingMan/homebooks/pull/1) in [StreakingMan/homebooks](https://github.com/StreakingMan/homebooks)
-3. 🗣 Commented on [#44](https://github.com/arashsheyda/nuxt-mongoose/issues/44#issuecomment-3598567781) in [arashsheyda/nuxt-mongoose](https://github.com/arashsheyda/nuxt-mongoose)
-4. 🔒 Closed issue [#110](https://github.com/Simon-He95/markstream-vue/issues/110) in [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue)
-5. 🗣 Commented on [#110](https://github.com/Simon-He95/markstream-vue/issues/110#issuecomment-3487508694) in [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue)
+1. ❌ Closed PR [#46](https://github.com/StreakingMan/vitepress-blogmate/pull/46) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
+2. ❌ Closed PR [#45](https://github.com/StreakingMan/vitepress-blogmate/pull/45) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
+3. ❌ Closed PR [#44](https://github.com/StreakingMan/vitepress-blogmate/pull/44) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
+4. ❌ Closed PR [#38](https://github.com/StreakingMan/vitepress-blogmate/pull/38) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
+5. ❌ Closed PR [#19](https://github.com/StreakingMan/vitepress-blogmate/pull/19) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
 <!--END_SECTION:activity-->
 
 
