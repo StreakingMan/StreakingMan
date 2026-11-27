@@ -1,0 +1,34 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/update.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      # GH_TOKEN 是带读权限的个人令牌（私有仓库的计数要它）；推送用 Actions 自带的令牌
+      # build：树、卡片、星数（内容改了或星数变了才有差异）；update：顶部面板（统计、最近 30 天、最近动态）
+      - run: node scripts/build.mjs && node scripts/update.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then echo "no change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: 更新主页数据"
+          git push

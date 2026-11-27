@@ -1,24 +1,21 @@
-[![StreakingMan's GitHub stats](https://streakingman-github-readme-stats.vercel.app/api?username=StreakingMan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right"><sub><b>中文</b> · <a href="./README.en.md">English</a></sub></p>
+
+<p align="center"><img src="./assets/dashboard.zh.svg" width="100%" alt="StreakingMan"/></p>
+
+### 我的项目
 
 <p>
-  <img src="https://streakingman-github-readme-stats.vercel.app/api/top-langs/?username=StreakingMan&layout=compact&langs_count=8" />
-  <img src="https://streakingman-github-readme-stats.vercel.app/api/wakatime?username=StreakingMan&layout=compact&langs_count=8" />
+  <a href="./assets/shots/qrcode-doodle-wars.jpg"><img src="./assets/cards/doodle-1.zh.svg" width="24%" alt="手绘涂鸦大乱斗"/></a>
+  <a href="https://github.com/StreakingMan/home-jarvis"><img src="./assets/cards/home-jarvis.zh.svg" width="24%" alt="home-jarvis"/></a>
+  <a href="https://gravity-tetris.vercel.app"><img src="./assets/cards/gravity-1.zh.svg" width="24%" alt="重力律动方块"/></a>
+  <a href="https://www.streakingman.com"><img src="./assets/cards/streakingman-com.zh.svg" width="24%" alt="个人站"/></a>
+</p>
+<p>
+  <a href="https://texas.streakingman.com"><img src="./assets/cards/texas-holdem.zh.svg" width="24%" alt="德州扑克教学"/></a>
+  <a href="https://solvable-sheep-game.streakingman.com/"><img src="./assets/cards/solvable-sheep-game.zh.svg" width="24%" alt="能解出来的羊了个羊"/></a>
+  <a href="https://resume-editor.streakingman.com"><img src="./assets/cards/vue3-resume-editor.zh.svg" width="24%" alt="Vue3 简历编辑器"/></a>
 </p>
 
-### :zap: Recent Activity
+### 我的成长
 
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/StreakingMan/vitepress-blogmate/pull/46) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
-2. ❌ Closed PR [#45](https://github.com/StreakingMan/vitepress-blogmate/pull/45) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
-3. ❌ Closed PR [#44](https://github.com/StreakingMan/vitepress-blogmate/pull/44) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
-4. ❌ Closed PR [#38](https://github.com/StreakingMan/vitepress-blogmate/pull/38) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
-5. ❌ Closed PR [#19](https://github.com/StreakingMan/vitepress-blogmate/pull/19) in [StreakingMan/vitepress-blogmate](https://github.com/StreakingMan/vitepress-blogmate)
-<!--END_SECTION:activity-->
-
-
-<!---
-StreakingMan/StreakingMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
+<p align="center"><img src="./assets/tree.zh.svg" width="100%" alt="我的成长：按时间生长的一棵树"/></p>
